@@ -52,3 +52,9 @@ public class Kodutoo1 {
         System.out.println(VYT(8,6));
     }
 }
+/*
+[2, 2, 2]
+[2, 3]
+[2, 2, 2, 3]
+24
+*/
