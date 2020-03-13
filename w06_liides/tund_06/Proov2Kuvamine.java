@@ -10,3 +10,8 @@ public class Proov2Kuvamine{
 		kuva(new RisttahukaRuumala(1,2));
 	}
 }
+
+/*
+5.0 10.0 15.0 20.0 25.0
+2.0 4.0 6.0 8.0 10.0
+*/
